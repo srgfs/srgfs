@@ -1,0 +1,23 @@
+g prof
+
+Linux comando ps aux
+
+Glances
+
+hyperthreading desativar na bios e os outros processadores
+
+é a entrada condiciona a saida
+
+não é necessario testar todos os casos só os extremos
+
+ATMEGA STUDIO
+
+WCET
+
+Github importante
+
+A0 -> Verifica se carro está ligado
+
+A1->Verifica se tem alguém sentado
+
+A2->Verifica o cinto de segurança
